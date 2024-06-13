@@ -1,3 +1,4 @@
 jxxghp/moviepilot:latest
 fallenbagel/jellyseerr:latest
 hectorqin/reader:openj9-latest
+linuxserver/transimission:latest
