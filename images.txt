@@ -5,3 +5,4 @@ linuxserver/transmission:latest
 iyuucn/iyuuplus:latest
 ghcr.io/advplyr/audiobookshelf:latest
 amilys/embyserver:latest
+xhofe/alist:latest
