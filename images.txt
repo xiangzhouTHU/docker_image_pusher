@@ -8,3 +8,4 @@ ghcr.io/advplyr/audiobookshelf:latest
 amilys/embyserver:latest
 xhofe/alist:latest
 neilpang/acme.sh
+gdy666/lucky
