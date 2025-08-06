@@ -9,4 +9,5 @@ amilys/embyserver:latest
 xhofe/alist:latest
 neilpang/acme.sh
 gdy666/lucky
+openlistteam/openlist:latest
 
