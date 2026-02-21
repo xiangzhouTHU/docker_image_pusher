@@ -13,4 +13,4 @@ openlistteam/openlist:latest
 sharelatex/sharelatex
 redis:6.2
 mongo:6.0
-
+portainer-ce:2.33.6
