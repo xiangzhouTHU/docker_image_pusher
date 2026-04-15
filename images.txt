@@ -1,5 +1,4 @@
-jxxghp/moviepilot:latest
-jxxghp/moviepilot-v2:latest
+jxxghp/moviepilot-v2:2.9.30
 fallenbagel/jellyseerr:latest
 hectorqin/reader:openj9-latest
 linuxserver/transmission:latest
