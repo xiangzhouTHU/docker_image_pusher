@@ -14,3 +14,5 @@ sharelatex/sharelatex
 redis:6.2
 mongo:6.0
 portainer/portainer-ce:2.33.7
+linuxserver/qbittorrent:5.1.4
+linuxserver/transmission:4.1.1
