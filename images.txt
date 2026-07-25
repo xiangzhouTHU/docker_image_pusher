@@ -1,4 +1,4 @@
-jxxghp/moviepilot-v2:2.9.30
+jxxghp/moviepilot-v2:2.15.0
 fallenbagel/jellyseerr:latest
 linuxserver/transmission:latest
 iyuucn/iyuuplus:latest
