@@ -1,6 +1,5 @@
 jxxghp/moviepilot-v2
 fallenbagel/jellyseerr:latest
-linuxserver/transmission:latest
 iyuucn/iyuuplus:latest
 amilys/embyserver:latest
 neilpang/acme.sh
@@ -8,6 +7,6 @@ gdy666/lucky
 openlistteam/openlist:latest
 redis:6.2
 mongo:6.0
-portainer/portainer-ce:2.33.7
-linuxserver/qbittorrent:5.1.4
-linuxserver/transmission:4.1.1
+portainer/portainer-ce:2.45.1
+linuxserver/qbittorrent:5.2.3
+linuxserver/transmission:4.1.3
